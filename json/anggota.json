@@ -1,0 +1,19 @@
+[ 
+    {
+        "no" : 1,
+        "nama" : "Park Jimin",
+        "jurusan" : "Teknik Kendaraan Ringan Otomotif"
+    },
+
+    {
+        "no" : 2,
+        "nama" : "Kim Taehyung",
+        "jurusan" : "Teknik Bisnis Sepeda Motor"
+    },
+
+    {
+        "no" : 3,
+        "nama" : "Jeon Jungkook",
+        "jurusan" : "Rekayasa Perangkat Lunak"
+    }
+]
