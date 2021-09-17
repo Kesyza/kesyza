@@ -113,7 +113,7 @@ class input{
 
 // instansiasi class
 $data = new input();
-$data->data3($bil1,$tanda,$bil2);
+$data->data($bil1,$tanda,$bil2);
 
 echo $data -> x;
 echo $data -> z;
