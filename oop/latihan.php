@@ -28,7 +28,7 @@
 //         else if($jabatan == "Manager"){
 //             $gaji = 5000000;
 //         }
-//         else if($jabatan == "Karyaan"){
+//         else if($jabatan == "Karyawan"){
 //             $gaji = 3000000;
 //         }
 //         else{
@@ -171,7 +171,7 @@ class pendapatan{
         else if($jabatan == "Manager"){
             $gaji = 5000000;
         }
-        else if($jabatan == "Karyaan"){
+        else if($jabatan == "Karyawan"){
             $gaji = 3000000;
         }
         else{
